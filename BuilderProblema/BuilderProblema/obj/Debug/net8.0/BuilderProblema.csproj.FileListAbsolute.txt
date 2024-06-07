@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\bin\Debug\net8.0\BuilderProblema.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\bin\Debug\net8.0\BuilderProblema.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\bin\Debug\net8.0\BuilderProblema.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\bin\Debug\net8.0\BuilderProblema.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\bin\Debug\net8.0\BuilderProblema.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\refint\BuilderProblema.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\BuilderProblema.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderProblema\BuilderProblema\obj\Debug\net8.0\ref\BuilderProblema.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\Users\Aluno\Documents\atv template method\TemplateMethod\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll

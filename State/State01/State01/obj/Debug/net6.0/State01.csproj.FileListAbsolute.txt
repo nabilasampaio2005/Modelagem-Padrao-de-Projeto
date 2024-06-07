@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\State\State01\State01\bin\Debug\net6.0\State01.exe
+C:\Users\Aluno\Documents\State\State01\State01\bin\Debug\net6.0\State01.deps.json
+C:\Users\Aluno\Documents\State\State01\State01\bin\Debug\net6.0\State01.runtimeconfig.json
+C:\Users\Aluno\Documents\State\State01\State01\bin\Debug\net6.0\State01.dll
+C:\Users\Aluno\Documents\State\State01\State01\bin\Debug\net6.0\State01.pdb
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.dll
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\refint\State01.dll
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.pdb
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\State01.genruntimeconfig.cache
+C:\Users\Aluno\Documents\State\State01\State01\obj\Debug\net6.0\ref\State01.dll

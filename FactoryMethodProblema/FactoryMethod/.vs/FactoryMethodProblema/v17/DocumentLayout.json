@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\FactoryMethodProblema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9537B6-428B-4573-80C1-15DBBFF0096A}|FactoryMethodProblema\\FactoryMethodProblema.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\factorymethodproblema\\factorymethodproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9537B6-428B-4573-80C1-15DBBFF0096A}|FactoryMethodProblema\\FactoryMethodProblema.csproj|solutionrelative:factorymethodproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9537B6-428B-4573-80C1-15DBBFF0096A}|FactoryMethodProblema\\FactoryMethodProblema.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\factorymethodproblema\\factorymethodproblema\\boletobancario\\bancocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9537B6-428B-4573-80C1-15DBBFF0096A}|FactoryMethodProblema\\FactoryMethodProblema.csproj|solutionrelative:factorymethodproblema\\boletobancario\\bancocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoCaixa.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\FactoryMethodProblema\\FactoryMethodProblema\\boletobancario\\BancoCaixa.cs",
+              "RelativeDocumentMoniker": "FactoryMethodProblema\\boletobancario\\BancoCaixa.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\FactoryMethodProblema\\FactoryMethodProblema\\boletobancario\\BancoCaixa.cs",
+              "RelativeToolTip": "FactoryMethodProblema\\boletobancario\\BancoCaixa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:50:38.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\FactoryMethodProblema\\FactoryMethodProblema\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethodProblema\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\FactoryMethodProblema\\FactoryMethodProblema\\Program.cs",
+              "RelativeToolTip": "FactoryMethodProblema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:49:44.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

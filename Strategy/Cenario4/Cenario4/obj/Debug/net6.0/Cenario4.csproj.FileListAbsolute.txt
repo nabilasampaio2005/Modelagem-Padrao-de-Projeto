@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\bin\Debug\net6.0\Cenario4.exe
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\bin\Debug\net6.0\Cenario4.deps.json
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\bin\Debug\net6.0\Cenario4.runtimeconfig.json
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\bin\Debug\net6.0\Cenario4.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\bin\Debug\net6.0\Cenario4.pdb
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\refint\Cenario4.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.pdb
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\Cenario4.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario4\Cenario4\obj\Debug\net6.0\ref\Cenario4.dll

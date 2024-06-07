@@ -1,0 +1,42 @@
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\cenario2\cenario2\bin\Debug\net6.0\cenario2.exe
+C:\Users\Aluno\source\repos\cenario2\cenario2\bin\Debug\net6.0\cenario2.deps.json
+C:\Users\Aluno\source\repos\cenario2\cenario2\bin\Debug\net6.0\cenario2.runtimeconfig.json
+C:\Users\Aluno\source\repos\cenario2\cenario2\bin\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\source\repos\cenario2\cenario2\bin\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\refint\cenario2.dll
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\cenario2.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\cenario2\cenario2\obj\Debug\net6.0\ref\cenario2.dll
+C:\Users\Aluno\Downloads\cenario2\cenario2\bin\Debug\net6.0\cenario2.exe
+C:\Users\Aluno\Downloads\cenario2\cenario2\bin\Debug\net6.0\cenario2.deps.json
+C:\Users\Aluno\Downloads\cenario2\cenario2\bin\Debug\net6.0\cenario2.runtimeconfig.json
+C:\Users\Aluno\Downloads\cenario2\cenario2\bin\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\Downloads\cenario2\cenario2\bin\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\refint\cenario2.dll
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\cenario2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\cenario2\cenario2\obj\Debug\net6.0\ref\cenario2.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\bin\Debug\net6.0\cenario2.exe
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\bin\Debug\net6.0\cenario2.deps.json
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\bin\Debug\net6.0\cenario2.runtimeconfig.json
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\bin\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\bin\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\refint\cenario2.dll
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.pdb
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\cenario2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\atv strategy\Cenario2\cenario2\obj\Debug\net6.0\ref\cenario2.dll

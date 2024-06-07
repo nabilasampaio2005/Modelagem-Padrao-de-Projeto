@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\chainresponsabilityproblema\\chainresponsabilityproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|solutionrelative:chainresponsabilityproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\chainresponsabilityproblema\\chainresponsabilityproblema\\calculadorapontos\\calculadordepontos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|solutionrelative:chainresponsabilityproblema\\calculadorapontos\\calculadordepontos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\chainresponsabilityproblema\\chainresponsabilityproblema\\pedido\\pedidolanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BCB0F-3500-48E1-8AD3-90735C59CDA7}|ChainResponsabilityProblema\\ChainResponsabilityProblema.csproj|solutionrelative:chainresponsabilityproblema\\pedido\\pedidolanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadorDePontos.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\CalculadoraPontos\\CalculadorDePontos.cs",
+              "RelativeDocumentMoniker": "ChainResponsabilityProblema\\CalculadoraPontos\\CalculadorDePontos.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\CalculadoraPontos\\CalculadorDePontos.cs",
+              "RelativeToolTip": "ChainResponsabilityProblema\\CalculadoraPontos\\CalculadorDePontos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:36:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\Program.cs",
+              "RelativeDocumentMoniker": "ChainResponsabilityProblema\\Program.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\Program.cs",
+              "RelativeToolTip": "ChainResponsabilityProblema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:35:32.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoLanche.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\Pedido\\PedidoLanche.cs",
+              "RelativeDocumentMoniker": "ChainResponsabilityProblema\\Pedido\\PedidoLanche.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\ChainResponsabilityProblema\\ChainResponsabilityProblema\\Pedido\\PedidoLanche.cs",
+              "RelativeToolTip": "ChainResponsabilityProblema\\Pedido\\PedidoLanche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:41:59.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

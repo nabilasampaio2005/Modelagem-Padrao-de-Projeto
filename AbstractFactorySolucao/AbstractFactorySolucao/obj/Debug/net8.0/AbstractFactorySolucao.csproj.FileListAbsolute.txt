@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net8.0\AbstractFactorySolucao.exe
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net8.0\AbstractFactorySolucao.deps.json
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net8.0\AbstractFactorySolucao.runtimeconfig.json
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net8.0\AbstractFactorySolucao.dll
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net8.0\AbstractFactorySolucao.pdb
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.dll
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\refint\AbstractFactorySolucao.dll
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.pdb
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\AbstractFactorySolucao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net8.0\ref\AbstractFactorySolucao.dll

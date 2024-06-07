@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\bin\Debug\net8.0\DecoratorSolucao.exe
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\bin\Debug\net8.0\DecoratorSolucao.deps.json
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\bin\Debug\net8.0\DecoratorSolucao.runtimeconfig.json
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\bin\Debug\net8.0\DecoratorSolucao.dll
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\bin\Debug\net8.0\DecoratorSolucao.pdb
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.dll
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\refint\DecoratorSolucao.dll
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.pdb
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\DecoratorSolucao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\DecoratorSolucao\DecoratorSolucao\obj\Debug\net8.0\ref\DecoratorSolucao.dll

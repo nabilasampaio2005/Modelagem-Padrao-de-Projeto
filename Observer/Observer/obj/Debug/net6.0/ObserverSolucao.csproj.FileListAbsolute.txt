@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\bin\Debug\net6.0\ObserverSolucao.exe
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\bin\Debug\net6.0\ObserverSolucao.deps.json
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\bin\Debug\net6.0\ObserverSolucao.runtimeconfig.json
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\bin\Debug\net6.0\ObserverSolucao.dll
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\bin\Debug\net6.0\ObserverSolucao.pdb
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.dll
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\refint\ObserverSolucao.dll
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.pdb
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ObserverSolucao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Observer\Observer\Observer\obj\Debug\net6.0\ref\ObserverSolucao.dll

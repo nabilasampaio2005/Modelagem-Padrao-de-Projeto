@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cenario1",
+    "\\Cenario1\\Cenario1",
+    "\\Cenario1\\Cenario1\\Pedidos",
+    "\\Cenario2",
+    "\\Cenario2\\Pedidos"
+  ],
+  "SelectedNode": "\\Cenario1\\Cenario1\\Pedidos\\Pedido.cs",
+  "PreviewInSolutionExplorer": false
+}

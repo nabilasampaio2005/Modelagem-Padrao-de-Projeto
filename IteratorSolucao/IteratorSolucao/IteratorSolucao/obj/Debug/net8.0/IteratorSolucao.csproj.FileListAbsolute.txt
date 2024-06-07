@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.exe
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.deps.json
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.runtimeconfig.json
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.dll
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.pdb
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.dll
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\refint\IteratorSolucao.dll
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.pdb
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\ref\IteratorSolucao.dll

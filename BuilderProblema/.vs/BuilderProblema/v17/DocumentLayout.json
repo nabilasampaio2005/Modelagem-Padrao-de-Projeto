@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\builderproblema\\builderproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|solutionrelative:builderproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\builderproblema\\builderproblema\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|solutionrelative:builderproblema\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\builderproblema\\builderproblema\\pdf\\geradorpdfalternativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6664A0-405F-4186-84FA-E2C18AC216E3}|BuilderProblema\\BuilderProblema.csproj|solutionrelative:builderproblema\\pdf\\geradorpdfalternativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeradorPDFAlternativo.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\PDF\\GeradorPDFAlternativo.cs",
+              "RelativeDocumentMoniker": "BuilderProblema\\PDF\\GeradorPDFAlternativo.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\PDF\\GeradorPDFAlternativo.cs",
+              "RelativeToolTip": "BuilderProblema\\PDF\\GeradorPDFAlternativo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:04:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeradorPDF.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\PDF\\GeradorPDF.cs",
+              "RelativeDocumentMoniker": "BuilderProblema\\PDF\\GeradorPDF.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\PDF\\GeradorPDF.cs",
+              "RelativeToolTip": "BuilderProblema\\PDF\\GeradorPDF.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:30:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderProblema\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderProblema\\BuilderProblema\\Program.cs",
+              "RelativeToolTip": "BuilderProblema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:30:02.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
