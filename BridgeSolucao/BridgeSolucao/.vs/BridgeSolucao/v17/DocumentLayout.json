@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\canal\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\canal\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\canal\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\canal\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\canal\\canaldeenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\canal\\canaldeenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\mensagem\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\mensagem\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\mensagem\\mensagemadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\mensagem\\mensagemadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\mensagem\\mensagemusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\mensagem\\mensagemusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|c:\\users\\aluno\\source\\repos\\bridgesolucao\\bridgesolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5574A4C4-7E58-4B6A-9AFE-42E24FFEB13B}|BridgeSolucao\\BridgeSolucao.csproj|solutionrelative:bridgesolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MensagemUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\MensagemUsuario.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Mensagem\\MensagemUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\MensagemUsuario.cs",
+              "RelativeToolTip": "BridgeSolucao\\Mensagem\\MensagemUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:20:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MensagemAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\MensagemAdmin.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Mensagem\\MensagemAdmin.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\MensagemAdmin.cs",
+              "RelativeToolTip": "BridgeSolucao\\Mensagem\\MensagemAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:19:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Program.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Program.cs",
+              "RelativeToolTip": "BridgeSolucao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:12:23.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mensagem.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\Mensagem.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Mensagem\\Mensagem.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Mensagem\\Mensagem.cs",
+              "RelativeToolTip": "BridgeSolucao\\Mensagem\\Mensagem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:19:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sms.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\Sms.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Canal\\Sms.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\Sms.cs",
+              "RelativeToolTip": "BridgeSolucao\\Canal\\Sms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:14:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\Email.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Canal\\Email.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\Email.cs",
+              "RelativeToolTip": "BridgeSolucao\\Canal\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:14:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanalDeEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\CanalDeEnvio.cs",
+              "RelativeDocumentMoniker": "BridgeSolucao\\Canal\\CanalDeEnvio.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\BridgeSolucao\\BridgeSolucao\\Canal\\CanalDeEnvio.cs",
+              "RelativeToolTip": "BridgeSolucao\\Canal\\CanalDeEnvio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:13:51.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

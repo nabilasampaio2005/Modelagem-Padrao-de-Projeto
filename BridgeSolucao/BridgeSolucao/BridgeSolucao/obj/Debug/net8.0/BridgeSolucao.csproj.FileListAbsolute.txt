@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.exe
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.deps.json
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.runtimeconfig.json
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.dll
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.pdb
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.dll
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\refint\BridgeSolucao.dll
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.pdb
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\ref\BridgeSolucao.dll

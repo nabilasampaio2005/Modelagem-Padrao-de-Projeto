@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\bin\Debug\net7.0\CompositeSolucao.exe
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\bin\Debug\net7.0\CompositeSolucao.deps.json
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\bin\Debug\net7.0\CompositeSolucao.runtimeconfig.json
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\bin\Debug\net7.0\CompositeSolucao.dll
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\bin\Debug\net7.0\CompositeSolucao.pdb
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.dll
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\refint\CompositeSolucao.dll
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.pdb
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\CompositeSolucao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\CompositeSolucao\CompositeSolucao\obj\Debug\net7.0\ref\CompositeSolucao.dll

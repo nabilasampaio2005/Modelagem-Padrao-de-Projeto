@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Command\Command\bin\Debug\net8.0\CommandSolucao.exe
+C:\Users\Aluno\source\repos\Command\Command\bin\Debug\net8.0\CommandSolucao.deps.json
+C:\Users\Aluno\source\repos\Command\Command\bin\Debug\net8.0\CommandSolucao.runtimeconfig.json
+C:\Users\Aluno\source\repos\Command\Command\bin\Debug\net8.0\CommandSolucao.dll
+C:\Users\Aluno\source\repos\Command\Command\bin\Debug\net8.0\CommandSolucao.pdb
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.AssemblyInfo.vb
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.dll
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\refint\CommandSolucao.dll
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.pdb
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\CommandSolucao.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Command\Command\obj\Debug\net8.0\ref\CommandSolucao.dll

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\Command\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\mudartemperaturaarcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\mudartemperaturaarcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\ligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\ligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\desligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\desligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\desligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\desligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\devices\\aplicativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\devices\\aplicativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\devices\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\devices\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\devices\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\devices\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\ligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\ligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\commandsolucao\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\commandsolucao\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|c:\\users\\aluno\\source\\repos\\command\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920BBA2-3265-48AE-9951-1AC3499966BB}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LigarArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\LigarArCondicionado.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\LigarArCondicionado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\LigarArCondicionado.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\LigarArCondicionado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:38:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesligarArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\DesligarArCondicionado.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\DesligarArCondicionado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\DesligarArCondicionado.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\DesligarArCondicionado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:37:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesligarLampada.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\DesligarLampada.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\DesligarLampada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\DesligarLampada.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\DesligarLampada.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:38:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MudarTemperaturaArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\MudarTemperaturaArCondicionado.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\MudarTemperaturaArCondicionado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\MudarTemperaturaArCondicionado.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\MudarTemperaturaArCondicionado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:38:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\Command.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\Command.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\Command.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:37:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LigarLampada.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\LigarLampada.cs",
+              "RelativeDocumentMoniker": "Command\\CommandSolucao\\LigarLampada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\CommandSolucao\\LigarLampada.cs",
+              "RelativeToolTip": "Command\\CommandSolucao\\LigarLampada.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:47:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aplicativo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\Aplicativo.cs",
+              "RelativeDocumentMoniker": "Command\\devices\\Aplicativo.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\Aplicativo.cs",
+              "RelativeToolTip": "Command\\devices\\Aplicativo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:38:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\ArCondicionado.cs",
+              "RelativeDocumentMoniker": "Command\\devices\\ArCondicionado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\ArCondicionado.cs",
+              "RelativeToolTip": "Command\\devices\\ArCondicionado.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:39:32.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\Lampada.cs",
+              "RelativeDocumentMoniker": "Command\\devices\\Lampada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\devices\\Lampada.cs",
+              "RelativeToolTip": "Command\\devices\\Lampada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:39:22.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Command\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:36:55.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
