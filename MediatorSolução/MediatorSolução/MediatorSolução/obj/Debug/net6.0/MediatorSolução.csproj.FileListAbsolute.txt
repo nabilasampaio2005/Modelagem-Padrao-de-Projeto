@@ -1,0 +1,5 @@
+C:\Users\thays\source\repos\MediatorSolução\MediatorSolução\obj\Debug\net6.0\MediatorSolução.csproj.AssemblyReference.cache
+C:\Users\thays\source\repos\MediatorSolução\MediatorSolução\obj\Debug\net6.0\MediatorSolução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thays\source\repos\MediatorSolução\MediatorSolução\obj\Debug\net6.0\MediatorSolução.AssemblyInfoInputs.cache
+C:\Users\thays\source\repos\MediatorSolução\MediatorSolução\obj\Debug\net6.0\MediatorSolução.AssemblyInfo.cs
+C:\Users\thays\source\repos\MediatorSolução\MediatorSolução\obj\Debug\net6.0\MediatorSolução.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\bin\Debug\net6.0\VisitorSolução.exe
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\bin\Debug\net6.0\VisitorSolução.deps.json
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\bin\Debug\net6.0\VisitorSolução.runtimeconfig.json
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\bin\Debug\net6.0\VisitorSolução.dll
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\bin\Debug\net6.0\VisitorSolução.pdb
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.csproj.AssemblyReference.cache
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.AssemblyInfoInputs.cache
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.AssemblyInfo.cs
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.csproj.CoreCompileInputs.cache
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.dll
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\refint\VisitorSolução.dll
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.pdb
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\VisitorSolução.genruntimeconfig.cache
+C:\Users\thays\source\repos\VisitorSolução\VisitorSolução\obj\Debug\net6.0\ref\VisitorSolução.dll

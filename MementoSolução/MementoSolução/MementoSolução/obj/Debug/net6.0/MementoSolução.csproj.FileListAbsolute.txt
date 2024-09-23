@@ -1,0 +1,15 @@
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\bin\Debug\net6.0\MementoSolução.exe
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\bin\Debug\net6.0\MementoSolução.deps.json
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\bin\Debug\net6.0\MementoSolução.runtimeconfig.json
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\bin\Debug\net6.0\MementoSolução.dll
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\bin\Debug\net6.0\MementoSolução.pdb
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.csproj.AssemblyReference.cache
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.AssemblyInfoInputs.cache
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.AssemblyInfo.cs
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.csproj.CoreCompileInputs.cache
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.dll
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\refint\MementoSolução.dll
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.pdb
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\MementoSolução.genruntimeconfig.cache
+C:\Users\thays\source\repos\MementoSolução\MementoSolução\obj\Debug\net6.0\ref\MementoSolução.dll
